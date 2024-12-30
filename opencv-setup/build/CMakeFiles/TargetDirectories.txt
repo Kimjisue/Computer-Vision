@@ -1,0 +1,3 @@
+/Users/kimjisue/Desktop/opencv/opencv-setup/build/CMakeFiles/MyProject.dir
+/Users/kimjisue/Desktop/opencv/opencv-setup/build/CMakeFiles/edit_cache.dir
+/Users/kimjisue/Desktop/opencv/opencv-setup/build/CMakeFiles/rebuild_cache.dir
